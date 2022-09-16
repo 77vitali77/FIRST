@@ -1,0 +1,15 @@
+D:\учеба\Знакомство с языками программирования (лекции)\First\Firstapp\bin\Debug\net6.0\Firstapp.exe
+D:\учеба\Знакомство с языками программирования (лекции)\First\Firstapp\bin\Debug\net6.0\Firstapp.deps.json
+D:\учеба\Знакомство с языками программирования (лекции)\First\Firstapp\bin\Debug\net6.0\Firstapp.runtimeconfig.json
+D:\учеба\Знакомство с языками программирования (лекции)\First\Firstapp\bin\Debug\net6.0\Firstapp.dll
+D:\учеба\Знакомство с языками программирования (лекции)\First\Firstapp\bin\Debug\net6.0\Firstapp.pdb
+D:\учеба\Знакомство с языками программирования (лекции)\First\Firstapp\obj\Debug\net6.0\Firstapp.csproj.AssemblyReference.cache
+D:\учеба\Знакомство с языками программирования (лекции)\First\Firstapp\obj\Debug\net6.0\Firstapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Знакомство с языками программирования (лекции)\First\Firstapp\obj\Debug\net6.0\Firstapp.AssemblyInfoInputs.cache
+D:\учеба\Знакомство с языками программирования (лекции)\First\Firstapp\obj\Debug\net6.0\Firstapp.AssemblyInfo.cs
+D:\учеба\Знакомство с языками программирования (лекции)\First\Firstapp\obj\Debug\net6.0\Firstapp.csproj.CoreCompileInputs.cache
+D:\учеба\Знакомство с языками программирования (лекции)\First\Firstapp\obj\Debug\net6.0\Firstapp.dll
+D:\учеба\Знакомство с языками программирования (лекции)\First\Firstapp\obj\Debug\net6.0\refint\Firstapp.dll
+D:\учеба\Знакомство с языками программирования (лекции)\First\Firstapp\obj\Debug\net6.0\Firstapp.pdb
+D:\учеба\Знакомство с языками программирования (лекции)\First\Firstapp\obj\Debug\net6.0\Firstapp.genruntimeconfig.cache
+D:\учеба\Знакомство с языками программирования (лекции)\First\Firstapp\obj\Debug\net6.0\ref\Firstapp.dll
